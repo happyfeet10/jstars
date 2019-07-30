@@ -1,2 +1,2 @@
-# jstars
+# JSTARS
 DCS Ground Target Utility
